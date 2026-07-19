@@ -64,3 +64,5 @@ yarn run dev
 ```
 
 **Stack**: Elixir 1.12+ | Node 16.x | Postgres 13+ | WebSocket transport layer with fallback polling
+
+# PR Update: 2026-07-27 11:25:16
